@@ -61,7 +61,7 @@
 
 ## 🌍 Контакты
 
-* GitHub: [github.com/YOUR_USERNAME](https://github.com/Xmelnoy)
+* GitHub: [github.com/Xmelnoy](https://github.com/Xmelnoy)
 * Email: `igtumanov0804@gmail.com`
 
 ---
