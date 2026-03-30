@@ -20,6 +20,6 @@
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Xmelnoy&show_icons=true&theme=transparent&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Xmelnoy&show_icons=true&theme=transparent&hide_border=true"/>
 
 </div>
