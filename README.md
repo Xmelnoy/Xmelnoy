@@ -20,6 +20,6 @@
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Xmelnoy&show_icons=true&theme=transparent&hide_border=true"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xmelnoy&theme=shadow_green&show_icons=true)
 
 </div>
