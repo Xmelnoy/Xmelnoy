@@ -20,6 +20,6 @@
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xmelnoy&theme=shadow_green&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xmelnoy)](https://github.com/Xmelnoy/github-readme-stats)
 
 </div>
