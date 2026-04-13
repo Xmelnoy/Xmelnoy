@@ -1,25 +1,27 @@
-<div align="center">
+<h1 align="center">Hi, I'm Xmelnoy 👋</h1>
+<p align="center">
+  Information Systems Dev & Security student • Java/Spring • Cybersecurity
+</p>
 
-# Xmelnoy
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-**Java Backend Developer**
+---
 
-`Spring Boot` • `REST API` • `PostgreSQL` • `Docker`
+### 🔧 Tech stack
+- Java • Spring Boot • PostgreSQL  
+- Linux basics • Git • Networking basics  
+- Interested in AppSec / SOC
 
-<br/>
+---
 
-> Building clean and reliable backend systems.
+### 📊 GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<br/>
-
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-111111?style=for-the-badge&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
-
-<br/>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xmelnoy)](https://github.com/Xmelnoy/github-readme-stats)
-
-</div>
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
